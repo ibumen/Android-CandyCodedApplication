@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Candy Coded</string>
     <string name="products_title">Products</string>
+    <string name="app_candy_description">Image for the Candy Store</string>
+    <string name="store_address">618 E South St Orlando, FL</string>
+    <string name="store_phone">(012)345&#8211;6789</string>
+    <string name="store_work_hours">Everyday 10am-10pm</string>
+    <string name="app_phone_icon_description">Phone Icon</string>
+    <string name="app_hours_icon_description">Hours Icon</string>
+    <string name="app_map_icon_description">Map Icon</string>
 </resources>
